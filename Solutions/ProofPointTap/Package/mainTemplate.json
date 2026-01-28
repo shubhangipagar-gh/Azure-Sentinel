@@ -1814,10 +1814,10 @@
                 "status": "Available",
                 "requiredDataConnectors": [
                   {
-                    "connectorId": "ProofpointTAPv2",
                     "dataTypes": [
                       "ProofPointTAPMessagesDeliveredV2_CL"
-                    ]
+                    ],
+                    "connectorId": "ProofpointTAPv2"
                   }
                 ],
                 "tactics": [
@@ -1955,10 +1955,10 @@
                 "status": "Available",
                 "requiredDataConnectors": [
                   {
-                    "connectorId": "ProofpointTAPv2",
                     "dataTypes": [
                       "ProofPointTAPClicksPermittedV2_CL"
-                    ]
+                    ],
+                    "connectorId": "ProofpointTAPv2"
                   }
                 ],
                 "tactics": [
